@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on [Viveargentina](https://github.com/ViveargentinaGIT/ViveargentinaApp - https://github.com/ViveargentinaGIT/ViveargentinaBack)
+- 👯 I’m collaborated on [Viveargentina](https://github.com/ViveargentinaGIT/ViveargentinaApp - https://github.com/ViveargentinaGIT/ViveargentinaBack)
 
 - 💬 Ask me about **React, Redux, Node, Postgress, Sequelize and more**
 
