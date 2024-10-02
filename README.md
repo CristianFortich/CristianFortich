@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **yezidfortich@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AvVwJW3K0HeQgjvmz6lxhpb_bixq?e=e7C2kX](https://1drv.ms/b/s!AvVwJW3K0HeQgjvmz6lxhpb_bixq?e=e7C2kX)
-
 - ⚡ Fun fact **I love the original LOTR trilogy**
 
 <h3 align="left">Connect with me:</h3>
