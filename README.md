@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristian Fortich</h1>
 <h3 align="center">Full stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m **React** developer
 
-- 👯 I’m collaborated on [Viveargentina](https://github.com/ViveargentinaGIT/ViveargentinaApp - https://github.com/ViveargentinaGIT/ViveargentinaBack)
+- 👯 I work at **Cloudnonic** and I have worked on a wide variety of projects
 
-- 💬 Ask me about **React, Redux, Node, Postgress, Sequelize and more**
+- 💬 Ask me about **React, Redux, Node, Postgress, Sequelize, ReactNative, Next, Typescript and more**
 
 - 📫 How to reach me **yezidfortich@gmail.com**
 
